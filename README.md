@@ -17,16 +17,16 @@ project-memory 将继续工作所需的信息整理成项目文件：目标、�
 通过 [skills CLI](https://github.com/vercel-labs/skills) 安装，需要 Node.js 及对应 CLI 要求的运行环境：
 
 ```sh
-npx skills add plutoxoxoK/project-memory --skill project-memory
+npx skills add Axlyro/project-memory --skill project-memory
 ```
 
 按提示选择目标 agent。仅安装到当前项目的 Codex：
 
 ```sh
-npx skills add plutoxoxoK/project-memory --skill project-memory -a codex
+npx skills add Axlyro/project-memory --skill project-memory -a codex
 ```
 
-也可以下载 [Releases](https://github.com/plutoxoxoK/project-memory/releases) 中的技能 ZIP，将其中的 `project-memory` 文件夹放入所用 agent 支持的技能目录；保留文件夹里的 `LICENSE`。具体目录与指引加载方式以客户端为准。
+也可以下载 [Releases](https://github.com/Axlyro/project-memory/releases) 中的技能 ZIP，将其中的 `project-memory` 文件夹放入所用 agent 支持的技能目录；保留文件夹里的 `LICENSE`。具体目录与指引加载方式以客户端为准。
 
 ## 第一次启用
 
@@ -95,6 +95,6 @@ npx skills remove project-memory
 
 ## 作者与许可证
 
-Maintained by [plutoxoxo](https://github.com/plutoxoxoK).
+Maintained by [Axlyro](https://github.com/Axlyro).
 
-Copyright (c) 2026 plutoxoxo. Licensed under [MIT](LICENSE).
+Copyright (c) 2026 Axlyro. Licensed under [MIT](LICENSE).

@@ -1,5 +1,9 @@
 # Changelog
 
+## Unreleased
+
+- 2026-11-09：版权与维护者署名由 plutoxoxo 更新为 Axlyro，GitHub 账号及安装/下载路径由 plutoxoxoK 更新为 Axlyro。已发布 v0.1.0 的 tag、ZIP 与校验和未重写，仍保留发布时的署名。
+
 ## 0.1.0 — 2026-11-09
 
 - 首次公开发布 project-memory。
